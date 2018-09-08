@@ -2,7 +2,7 @@
   "name": "robofriends",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://vmussato.github.io/robofriends",
+  "homepage": "http://shan5742.github.io/robofriends",
   "devDependencies": {
     "gh-pages": "^1.1.0",
     "react-scripts": "1.1.0"

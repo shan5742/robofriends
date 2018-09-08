@@ -6,8 +6,8 @@
     "react": "^16.4.2",
     "react-dom": "^16.4.2",
     "react-scripts": "1.1.5",
-    "tachyons": "^4.11.1"
-    "homepage" : "http://shan5742.github.io/myapp"
+    "tachyons": "^4.11.1",
+    "homepage" : "http://shan5742.github.io/myapp",
   },
   "scripts": {
     "start": "react-scripts start",

@@ -7,6 +7,7 @@
     "react-dom": "^16.4.2",
     "react-scripts": "1.1.5",
     "tachyons": "^4.11.1"
+    "homepage" : "http://shan5742.github.io/robofriends"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -15,4 +16,3 @@
     "eject": "react-scripts eject"
   }
 }
-

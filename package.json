@@ -2,7 +2,6 @@
   "name": "robofriends",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://shan5742.github.io/robofriends",
   "dependencies": {
     "react": "^16.2.0",
     "react-dom": "^16.2.0",
